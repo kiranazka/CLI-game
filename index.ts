@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#!/usr/bin/env node
 import inquirer from "inquirer";
 console.log("\nWelcome to Azka project the CLI Number Guessing Game");
 // variable const rendomNumber math.floor
